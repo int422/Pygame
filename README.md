@@ -1,4 +1,4 @@
-#Pygame
+# Pygame
 
 ### Запуск
 ```bash
